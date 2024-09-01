@@ -1,0 +1,19 @@
+The project aims to develop a web application dedicated to the management of professional opportunities utilizing the MERN stack.
+
+As a job seeker, you will need to create and update your profile according to the acquired skills, previous work experience,
+ ... You can consult offers, postulate to a specific one, add to favorites, follow an organization, get notifications on 
+specific set of offers depending on parameters...
+
+As an HR representative, you can post offers (internships or full-time positions), consult profiles, accept a specific profile, schedule interviews...
+
+
+To validate the PI Full Stack Project, you will need to prepare the following tasks:
+Prepare the user management services
+
+Prepare the job offers management services (Read only)
+Prepare the job seeker application management services
+Prepare the corresponding interfaces (Front Office and Back Office)
+Consume at least two external APIs that align with the project's logic
+Implement advanced features in accordance with the work requirements
+Maintain a GitHub push history of at least three weeks
+Prepare a devops pipeline
